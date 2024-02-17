@@ -1,6 +1,7 @@
 # Tarea semanal no.2
 
 ### Byron René Pastor Flores | Carnet: 0905-23-7312 | Facultad: Ingeniería en Sistemas | Universidad: Universidad Mariano Gálvez de Guatemala
+## video hablando sobre git/github y resumen del video
 [<img src="https://img.youtube.com/vi/NWpebi2icAA/maxresdefault.jpg" width="50%">](https://youtu.be/<NWpebi2icAA>)
 | Sección | Programa | Enlace | Descripción |
 |---|---|---|---|
