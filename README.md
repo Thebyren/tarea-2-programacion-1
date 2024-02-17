@@ -1,8 +1,7 @@
 # Tarea semanal no.2
 
 ### Byron René Pastor Flores | Carnet: 0905-23-7312 | Facultad: Ingeniería en Sistemas | Universidad: Universidad Mariano Gálvez de Guatemala
-[![Video presentacion](https://youtu.be/NWpebi2icAA)]
-
+[<img src="https://img.youtube.com/vi/NWpebi2icAA/maxresdefault.jpg" width="50%">](https://youtu.be/<NWpebi2icAA>)
 | Sección | Programa | Enlace | Descripción |
 |---|---|---|---|
 | **Sección 1** | 1 | [program-1.cs](./section-1/program-1.cs) | Escribe un programa que convierta un número entero a decimal. |
